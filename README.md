@@ -4,5 +4,5 @@
 > I'm welcoming any feedback.
 
 
-![Top view](docs/topview.png.png "Top view")
-![Side view](docs/sideview.png.png.png "Side view")
+![Top view](https://github.com/Unimakers/EBSIM/blob/main/docs/topview.png "Top view")
+![Side view](https://github.com/Unimakers/EBSIM/blob/main/docs/sideview.png "Side view")
